@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "collection-3ba2512f",
+    "title": "Streaming Services",
+    "folders": [
+      {
+        "id": "folder-8437ccf2",
+        "title": "Netflix",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
+        "coverImageUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "netflix-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "netflix-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86751"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86752"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22399289"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88328"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-2234a273",
+        "title": "Disney+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "coverImageUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.58479"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.58478"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86758"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86759"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88322"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-ed088b4a",
+        "title": "HBO Max",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+        "coverImageUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "hbo-max-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "hbo-max-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89649"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89647"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88324"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-cde4626e",
+        "title": "Apple TV",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "coverImageUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "apple-tv-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "apple-tv-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86756"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86757"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22490340"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88317"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-f6fe5e75",
+        "title": "Paramount+",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Paramount.gif",
+        "coverImageUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Paramount.gif",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "paramount-plus-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "paramount-plus-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86761"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86762"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24957249"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88330"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-f4324963",
+        "title": "Prime Video",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
+        "coverImageUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "amazon-prime-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.142e3a47.topstreaming.flixpatrol",
+            "catalogId": "amazon-prime-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86753"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86755"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22399268"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88332"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-4c6e44c1",
+    "title": "Genres",
+    "folders": [
+      {
+        "id": "folder-4d7d4c2c",
+        "title": "Action",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/action-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3106"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91213"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-2addb310",
+        "title": "Comedy",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3107"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3122"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-f84235c8",
+        "title": "Crime",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/crime-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2411"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.20772104"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5d3bfd62",
+        "title": "Mystery",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5c537c81-e7e0-4626-ae01-81be3c3498e0.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2416"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6614"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-e4883b45",
+        "title": "Reality",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/reality-wide.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.84401"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3ecd66c8",
+        "title": "Romance",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/romance-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128262"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128265"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-96911073",
+        "title": "Sci-Fi",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/sci-fi-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3364"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3125"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-2c350275",
+        "title": "Thriller",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/thriller-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.20770413"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-f3b2bd19",
+        "title": "War Stories",
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/war-stories-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3112"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.111199"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/cd52bdf4-c767-4822-b6a3-2d6f873d5e46.jpg",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-67f3159a",
+    "title": "Movie Series",
+    "folders": [
+      {
+        "id": "folder-263240e4",
+        "title": "Marvel",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/g0BNgjdf/Marvel.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Superhero",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33123878"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-664d644f",
+        "title": "Harry Potter",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/qWfpSWopkKMCBI0pDi6RDNBqmBa.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.84"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-c608d653",
+        "title": "Star Wars",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/k3cZ5ked9bV1xHsmEdOYEZEIRu5.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22941255"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-0e93dbfa",
+        "title": "DC Universe",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/8832cf7e-02d1-401b-aca1-9f1bc67a3596.jpg",
+        "catalogSources": [
+          {
+            "type": "Movie",
+            "genre": "Superhero",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1257909"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-6df57b1b",
+        "title": "John Wick",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/6FSflWC6msrWfWks6Zo99rfPXRP.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2435487"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7df2c99a",
+        "title": "Dune",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/xY5YwoLiKRb2lwaudOKRyxcmabi.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Science Fiction",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11942071"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-c65f26ef",
+        "title": "Spider-Man",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/no2cllXSRA56LPipQnuPlg3RuTL.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Superhero",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.32258146"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-3c2218c8",
+        "title": "Back to the Future",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/18dehEmivr3tmkKC5tFTPKLSfwd.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Science Fiction",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.20038273"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-67227847",
+        "title": "Toy Story",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/inzobKFeEeV1gEm6Ci2woeFNgsG.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59781"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-58517eac",
+        "title": "Scary Movie",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/2XOpHKPKKaQHdJ00fWgNo99nL6k.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Comedy",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.251"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-10f1f3c3",
+        "title": "Pirates of the Caribbean",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Gmwdxn5R/Pirates.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.10"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-2d867ccb",
+        "title": "Indiana Jones",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://wallpapercave.com/wp/wp11863273.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Adventure",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.15"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-940fd83d",
+        "title": "Jason Bourne",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/btvyAoDehFWaKxI9jssltFp29D0.jpg",
+        "catalogSources": [
+          {
+            "type": "Movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.214"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-dc2394ad",
+        "title": "Die Hard",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/2rfJ2fJa5sgRFXjtYCsSn9zFhoP.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21827070"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6ad9254d",
+        "title": "X-Men",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/nTnufJEktgasBboTcAhfu80HVj4.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Superhero",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.194"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-25373145",
+        "title": "Fast & Furious",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/5jjKyv2U5Q4aCjH2qmXCheSk4wN.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11341995"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-9675c175",
+        "title": "Mission: Impossible",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/j4wneU3c5puJeRKgaqHvlqnPZc9.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.131"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-44d1ec4e",
+        "title": "Lord of the Rings",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/d1bnKfh6/Lordoftherings.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1109887"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-66fca0ef",
+        "title": "Knives Out",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://wallpapercave.com/wp/wp4969659.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Mystery",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11898934"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-81eb7922",
+        "title": "007",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/6VcVl48kNKvdXOZfJPdarlUGOsk.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1485378"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7c76bfa8",
+        "title": "Maze Runner",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://lumiere-a.akamaihd.net/v1/images/image_ef20d088.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.44447"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-93476336",
+        "title": "The Godfather",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/X7YwbzbT/The-Godfather.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.76989"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-0204303a",
+        "title": "The Hunger Games",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0d7e0b16-0ad8-454e-8de1-31e42781a305.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.76527"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-969d6beb",
+        "title": "The Matrix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/zB9JQpWg/The-Matrix.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.98353"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-11249d1d",
+        "title": "Avatar",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/56e35a2b-9f0a-4d59-af58-16350d16fa16.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.29466"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-9d43bfb2",
+        "title": "Jurassic Park",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/oJwNdpeKyOxyaBJ8WEOsDVH5FIq.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Science Fiction",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.102982"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-b943c8e4",
+        "title": "Deadpool",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/38B4MIYNyWpehNBQ9pc22OQjsZ7.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Superhero",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59621"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-078c1850",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "folder-f780e40d",
+        "title": "2020's",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0c71ef5b-1323-4bd2-a099-2adea831929e.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91304"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7f9d7987",
+        "title": "2010's",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/fcf6cb04-14c7-42fb-99cf-184b0d07116c.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91303"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-66440469",
+        "title": "2000's",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1b303257-4dcb-4cdc-9a15-36df68a3cc7f.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91302"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-a4cc830d",
+        "title": "1990's",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/faf651e8-e6ba-4f84-9bff-49225d5024d6.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91300"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1013b727",
+        "title": "1980's",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1336145e-f460-4d9b-903e-0a0284d4750b.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91301"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-deb2f90f",
+    "title": "Actor's",
+    "folders": [
+      {
+        "id": "folder-45462b26",
+        "title": "Adam Sandler",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/88c82adc-5257-436f-b41e-f993a9eb3620.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "Comedy",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1434297"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-700f0aca",
+        "title": "Angelina Jolie",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/J09HLRTZ/e247fd69-f8b0-4286-8ad1-f1fa24f74acb.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.30660981"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-1d0d00ed",
+        "title": "Brad Pitt",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/RZ3kb4fh/77c36e33-4d5c-43c0-8c51-c249e2a8f077.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.57204"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-dcf347b4",
+        "title": "Christian Bale",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/0jFf6RNT/a835a3ed-a6e0-447d-8189-03ab32ef9933.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.30656928"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-05fe2932",
+        "title": "Clint Eastwood",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/qBSXxrkj/e38c362a-4441-4b44-ac9a-cf87e30d08bb.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2985507"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-d83563ba",
+        "title": "Denzel Washington",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/MZvDxK6y/585990c1-3429-4bc1-8a7b-adb9512b8e60.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.20753730"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-fbe5cbaa",
+        "title": "Jim Carrey",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/DzwGgBm2/e7afd8a9-5ece-43f3-b92b-45f4be95caac.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7229"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-9d8e11ed",
+        "title": "Johnny Depp",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/65QNBZ7v/d3c0ad1d-eb71-4f23-85cd-54d71d401509.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23926764"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6ececa10",
+        "title": "Leonardo DiCaprio",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/FszwMQq3/491793a7-6bb3-4985-958e-145997013395.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55447"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-32a127a7",
+        "title": "Margot Robbie",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/4xt2G419/c06dceb0-7d79-4345-9836-48d250d5811e.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.136779"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-41a73f95",
+        "title": "Matt Damon",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/Bbr57DR3/40d3e727-8438-444e-9463-2a2b1b3a373f.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1487413"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-a10da016",
+        "title": "Morgan Freeman",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/GtFPN9Rz/5bd1a85f-ecdd-430f-945a-dd0fc49f0d2c.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.57185"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-30798a62",
+        "title": "Robert De Niro",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/N0D3hfsY/dab7c86b-4e65-49d6-9162-bbb95afca1a7.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.10806684"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-36ede3ed",
+        "title": "Robert Downey Jr",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/TYhQsbfC/1fa46616-6700-4238-bb28-844a2d75662c.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.57218"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-33751e15",
+        "title": "Ryan Gosling",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/VND0ccrc/8e7e8a3b-6d2c-453f-9932-5b26232080b6.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.810770"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-b82eda9f",
+        "title": "Ryan Reynolds",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/DzjQPGcY/c0434e0b-54b0-473e-a14a-62f720e49f67.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.15661"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3c2574d2",
+        "title": "Seth Rogan",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/nhTqnmNM/db8d3944-ffb8-41c3-b823-1a10e16f8ada.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.50343"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-edd07aa5",
+        "title": "Tom Cruise",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/KcLLRwC0/f1fa8944-bfed-4932-95b0-3e02d943da4a.jpg",
+        "catalogSources": [
+          {
+            "type": "all",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24958402"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-97422408",
+        "title": "Tom Hanks",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/0jdbcRsP/9862cf39-9065-4017-a2cb-d317bd0f91e0.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.15173"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-72216c2f",
+        "title": "Will Ferrall",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/Px1x5sN2/4c2521b7-af34-4bb7-8529-f2eb587ab181.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.150449"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-510d9b40",
+        "title": "Will Smith",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.postimg.cc/RZ8V1VHT/9f393c97-83b4-47d4-b887-48d7ce0b8482.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.125295"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-80ac12fb",
+    "title": "Directors",
+    "folders": [
+      {
+        "id": "folder-9843e73f",
+        "title": "Christopher Nolan",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/776d45d6-c957-4816-b493-190ec1740099.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6242091"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-13daf2cf",
+        "title": "Martin Scorsese",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/41ccc436-779c-4fdc-a1e3-fdca10ce1d32.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.32865"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-d9cb194e",
+        "title": "Steven Spielberg",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/18206f90-6fa5-4588-b94d-4dd8250a0345.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.143631"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-fd043955",
+        "title": "Denis Villeneuve",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/8bdf44d4-95e2-499a-a606-ed35c7c8682b.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.33240"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1465841c",
+        "title": "David Fincher",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/36888a03-03ad-4d11-bdeb-86947d7a42d9.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91029"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-4898d9ae",
+        "title": "Quentin Tarantino",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/fRCL0VSH/Screenshot-2026-04-19-at-9-30-30-am.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1558961"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-fb76d095",
+        "title": "Guy Ritchie",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/ZqBPjRDt/e2a22336-d796-489f-a866-dd702d14405e.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.15697"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-d7933940",
+        "title": "Edgar Wright",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/sg4B9nqb/Screenshot-2026-04-19-at-9-29-01-am.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.38077"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  }
+]
